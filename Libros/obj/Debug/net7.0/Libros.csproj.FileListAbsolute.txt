@@ -1,0 +1,8 @@
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.csproj.AssemblyReference.cache
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.AssemblyInfoInputs.cache
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.AssemblyInfo.cs
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.csproj.CoreCompileInputs.cache
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.MvcApplicationPartsAssemblyInfo.cache
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.RazorAssemblyInfo.cache
+C:\Aplicada\Libros\Libros\obj\Debug\net7.0\Libros.RazorAssemblyInfo.cs
