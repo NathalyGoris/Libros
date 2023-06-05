@@ -10,4 +10,7 @@ public class Libro
 
         [Required (ErrorMessage = "El Precio del libro es obligatorio")]
         public string? Precio { get; set; }
+
+        [Required (ErrorMessage = "El Precio del libro es obligatorio")]
+        public string? Precio { get; set; }
     }
